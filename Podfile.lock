@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.1)
+  - CRRefresh (1.1.3)
+  - Toaster (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - CRRefresh
+  - Toaster
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CRRefresh
+    - Toaster
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  CRRefresh: 1415d4ae06837fa7bb064c44f2e102f3ef517044
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+
+PODFILE CHECKSUM: b0890757f69ad695697ce570fde0afe85df9023f
+
+COCOAPODS: 1.5.3
